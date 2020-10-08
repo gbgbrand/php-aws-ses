@@ -46,7 +46,7 @@
 *
 * @link https://github.com/daniel-zahariev/php-aws-ses
 * @package AmazonSimpleEmailService
-* @version v0.9.1
+* @version v0.9.2
 */
 class SimpleEmailService
 {
